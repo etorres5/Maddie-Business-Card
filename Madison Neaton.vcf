@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.0//EN
+N:Neaton;Madison;;;
+FN:Madison Neaton
+ORG:IAA Inc.;
+EMAIL;type=INTERNET;type=HOME;type=pref:madison.neaton@iaai.com
+TEL;type=pref:+17732567454
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/madison-neaton/
+END:VCARD
